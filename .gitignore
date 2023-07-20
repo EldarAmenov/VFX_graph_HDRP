@@ -1,0 +1,77 @@
+# =============== #
+# Unity generated #
+# =============== #
+/Temp/
+/Library/
+/debug-glsl-error-in-d3dcompile*
+/sysinfo.txt
+UserSettings/EditorUserSettings.asset
+
+# ЧТобы не реимпортить после принятия изменений
+/ProjectSettings/ProjectVersion.txt
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+/ExportedObj/
+/obj/
+*.svd
+*.userprefs
+/*.csproj
+*.pidb
+*.suo
+/*.sln
+*.user
+*.unityproj
+*.booproj
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+#==============#
+# Mac
+/SpriteCollections
+/MacBuilds/
+
+# ============ #
+# Others       #
+# ============ #
+/Build/
+/Builds/
+/.project
+/.vs
+/.vscode/
+/Library*
+/Logs/
+
+# Houdini autosave
+**/backup/
+# Substance Designer autosave
+**/.autosave/
+
+[Bb]ackups/
+_[Bb]ackups/
+
+# === # 
+# WSA #
+/Assets/WSATestCertificate.pfx*
+
+# Asset Bundles
+/AssetBundles
+
+# For artists
+/Assets/_[Ii]gnored/
+/Assets/_[Ii]gnored.meta
+/Assets/StreamingAssets/
+
+# Jetbrain Rider Cache
+.idea/
+Assets/Plugins/Editor/JetBrains*
