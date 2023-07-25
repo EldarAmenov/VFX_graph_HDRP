@@ -1440,10 +1440,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1486.0401611328125,
-            "y": -618.0330810546875,
-            "width": 128.0001220703125,
-            "height": 101.00003051757813
+            "x": -1698.0001220703125,
+            "y": -745.0000610351563,
+            "width": 128.0,
+            "height": 101.0
         }
     },
     "m_Slots": [
@@ -1664,10 +1664,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1280.0401611328125,
-            "y": -620.0330810546875,
-            "width": 232.000244140625,
-            "height": 145.99993896484376
+            "x": -1552.0001220703125,
+            "y": -808.0000610351563,
+            "width": 232.0,
+            "height": 146.0
         }
     },
     "m_Slots": [
@@ -3961,7 +3961,7 @@
     "m_RenderingPass": 4,
     "m_BlendMode": 1,
     "m_ZTest": 4,
-    "m_ZWrite": false,
+    "m_ZWrite": true,
     "m_TransparentCullMode": 2,
     "m_OpaqueCullMode": 2,
     "m_SortPriority": 0,
@@ -3969,7 +3969,7 @@
     "m_TransparentDepthPrepass": false,
     "m_TransparentDepthPostpass": false,
     "m_SupportLodCrossFade": false,
-    "m_DoubleSidedMode": 0,
+    "m_DoubleSidedMode": 1,
     "m_DOTSInstancing": false,
     "m_CustomVelocity": false,
     "m_Tessellation": false,
@@ -6491,10 +6491,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -3806.0400390625,
-            "y": -943.032958984375,
-            "width": 130.999755859375,
-            "height": 148.9998779296875
+            "x": -3936.000244140625,
+            "y": -1268.0001220703125,
+            "width": 131.0,
+            "height": 149.0
         }
     },
     "m_Slots": [
