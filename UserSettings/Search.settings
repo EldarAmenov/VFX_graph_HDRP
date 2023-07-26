@@ -8,12 +8,12 @@ onBoardingDoNotAskAgain = true
 showPackageIndexes = false
 showStatusBar = false
 scopes = {
-	"picker_window_position_offset.74AD8FDB" = "632;547;796;550"
-	"picker_search_text.74AD8FDB" = ""
-	"last_search.74AD8FDB" = ""
+	"picker_window_position_offset.74AD8FDB" = "617;522;796;550"
+	"picker_search_text.74AD8FDB" = "def"
+	"last_search.74AD8FDB" = "def"
 	"OpenInspectorPreview.74AD8FDB" = "0"
 	"currentGroup.74AD8FDB" = "all"
-	"picker_window_position_offset.7E63D72B" = "551;655;796;550"
+	"picker_window_position_offset.7E63D72B" = "103;522;796;550"
 	"picker_search_text.7E63D72B" = ""
 	"last_search.7E63D72B" = ""
 	"OpenInspectorPreview.7E63D72B" = "0"
@@ -74,6 +74,7 @@ providers = {
 objectSelectors = {
 }
 recentSearches = [
+	"n"
 ]
 searchItemFavorites = [
 ]

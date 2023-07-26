@@ -413,7 +413,7 @@ MonoBehaviour:
       additiveValue: 0
       multiplyValue: 1
   enableBackplate:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 1
   backplateType:
     m_OverrideState: 1
@@ -441,7 +441,7 @@ MonoBehaviour:
     m_Value: 0
   shadowTint:
     m_OverrideState: 1
-    m_Value: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    m_Value: {r: 0.18750615, g: 0.29181966, b: 0.5, a: 1}
   pointLightShadow:
     m_OverrideState: 1
     m_Value: 0
