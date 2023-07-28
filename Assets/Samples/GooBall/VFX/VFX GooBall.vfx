@@ -2211,7 +2211,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
           PublicKeyToken=b77a5c561934e089
-      m_SerializableObject: 12
+      m_SerializableObject: 120
     m_Space: 2147483647
   m_Property:
     name: MaxSpeed
@@ -5343,7 +5343,7 @@ MonoBehaviour:
   - {fileID: 8926484042661616670}
   - {fileID: 8926484042661616685}
   m_UIPosition: {x: 0, y: 0}
-  m_UICollapsed: 1
+  m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_MasterSlot: {fileID: 8926484042661616669}
   m_MasterData:
@@ -5379,7 +5379,7 @@ MonoBehaviour:
   - {fileID: 8926484042661616671}
   - {fileID: 8926484042661616684}
   m_UIPosition: {x: 0, y: 0}
-  m_UICollapsed: 1
+  m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_MasterSlot: {fileID: 8926484042661616669}
   m_MasterData:
@@ -5415,7 +5415,7 @@ MonoBehaviour:
   - {fileID: 8926484042661616676}
   - {fileID: 8926484042661616680}
   m_UIPosition: {x: 0, y: 0}
-  m_UICollapsed: 1
+  m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_MasterSlot: {fileID: 8926484042661616669}
   m_MasterData:
