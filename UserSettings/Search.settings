@@ -8,7 +8,7 @@ onBoardingDoNotAskAgain = true
 showPackageIndexes = false
 showStatusBar = false
 scopes = {
-	"picker_window_position_offset.74AD8FDB" = "617;522;796;550"
+	"picker_window_position_offset.74AD8FDB" = "585;522;796;550"
 	"picker_search_text.74AD8FDB" = ""
 	"last_search.74AD8FDB" = ""
 	"OpenInspectorPreview.74AD8FDB" = "0"
@@ -18,7 +18,7 @@ scopes = {
 	"last_search.7E63D72B" = ""
 	"OpenInspectorPreview.7E63D72B" = "0"
 	"currentGroup.7E63D72B" = "all"
-	"picker_window_position_offset.3172962C" = "630;724;796;550"
+	"picker_window_position_offset.3172962C" = "585;724;796;550"
 	"picker_search_text.3172962C" = ""
 	"last_search.3172962C" = ""
 	"OpenInspectorPreview.3172962C" = "0"
@@ -77,6 +77,7 @@ recentSearches = [
 	"n"
 ]
 searchItemFavorites = [
+	"GlobalObjectId_V1-1-39ac0388c59a094438c1a45cf3ad50d3-2800000-0"
 ]
 savedSearchesSortOrder = 0
 showSavedSearchPanel = false
