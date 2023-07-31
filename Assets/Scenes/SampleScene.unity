@@ -167,7 +167,7 @@ PlayableDirector:
   m_Enabled: 1
   serializedVersion: 3
   m_PlayableAsset: {fileID: 11400000, guid: f6d0083bdd160714ebad2fedfe381882, type: 2}
-  m_InitialState: 1
+  m_InitialState: 0
   m_WrapMode: 2
   m_DirectorUpdateMode: 1
   m_InitialTime: 0
@@ -1881,11 +1881,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4438615835038246031, guid: 72b8684306870e247bcdc4578b1e8611, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7079571067440340651, guid: 72b8684306870e247bcdc4578b1e8611, type: 3}
       propertyPath: m_Enabled
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7785771153033400902, guid: 72b8684306870e247bcdc4578b1e8611, type: 3}
       propertyPath: m_RootOrder
