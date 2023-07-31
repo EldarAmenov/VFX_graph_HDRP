@@ -151,6 +151,20 @@
             },
             "m_InputSlot": {
                 "m_Node": {
+                    "m_Id": "1869b58b0e13469e8e5ecbd549c25727"
+                },
+                "m_SlotId": 0
+            }
+        },
+        {
+            "m_OutputSlot": {
+                "m_Node": {
+                    "m_Id": "01ca6851370441f4ac9c7deb14ae0fd2"
+                },
+                "m_SlotId": 7
+            },
+            "m_InputSlot": {
+                "m_Node": {
                     "m_Id": "45f7a9aae2ed4b8e946d71b36f4d13af"
                 },
                 "m_SlotId": 1
@@ -250,20 +264,6 @@
             "m_InputSlot": {
                 "m_Node": {
                     "m_Id": "f670e3326153416a9195d12f73c11b67"
-                },
-                "m_SlotId": 0
-            }
-        },
-        {
-            "m_OutputSlot": {
-                "m_Node": {
-                    "m_Id": "45f7a9aae2ed4b8e946d71b36f4d13af"
-                },
-                "m_SlotId": 2
-            },
-            "m_InputSlot": {
-                "m_Node": {
-                    "m_Id": "1869b58b0e13469e8e5ecbd549c25727"
                 },
                 "m_SlotId": 0
             }
@@ -1996,7 +1996,7 @@
     "m_Hidden": false,
     "m_ShaderOutputName": "DepthOffset",
     "m_StageCapability": 2,
-    "m_Value": -10.0,
+    "m_Value": 0.0,
     "m_DefaultValue": 0.0,
     "m_Labels": []
 }

@@ -45,7 +45,7 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 5.166666666666667
+    m_Start: 5
     m_ClipIn: 0
     m_Asset: {fileID: -3488056876607950656}
     m_Duration: 5
@@ -265,11 +265,11 @@ MonoBehaviour:
   - {fileID: 2361476599270590686}
   - {fileID: -3034376745925923717}
   - {fileID: -5472961546319334860}
-  m_FixedDuration: 0
+  m_FixedDuration: 10.166666666667
   m_EditorSettings:
     m_Framerate: 60
     m_ScenePreview: 1
-  m_DurationMode: 0
+  m_DurationMode: 1
   m_MarkerTrack: {fileID: 0}
 --- !u!114 &2361476599270590686
 MonoBehaviour:
