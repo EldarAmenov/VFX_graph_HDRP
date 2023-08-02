@@ -45,7 +45,7 @@ PlayableDirector:
   serializedVersion: 3
   m_PlayableAsset: {fileID: 11400000, guid: f6d0083bdd160714ebad2fedfe381882, type: 2}
   m_InitialState: 0
-  m_WrapMode: 2
+  m_WrapMode: 0
   m_DirectorUpdateMode: 1
   m_InitialTime: 0
   m_SceneBindings: []
@@ -74,12 +74,16 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7310451774654276161, guid: 72b8684306870e247bcdc4578b1e8611, type: 3}
+      propertyPath: m_ResetSeedOnPlay
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7310451774654276161, guid: 72b8684306870e247bcdc4578b1e8611, type: 3}
       propertyPath: m_InitialEventName
       value: 
       objectReference: {fileID: 0}
     - target: {fileID: 7310451774654276161, guid: 72b8684306870e247bcdc4578b1e8611, type: 3}
       propertyPath: m_InitialEventNameOverriden
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7785771153033400902, guid: 72b8684306870e247bcdc4578b1e8611, type: 3}
       propertyPath: m_RootOrder
@@ -210,7 +214,27 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8646728666458072738, guid: 05dbcb805bd80314882e8bd678ec467b, type: 3}
       propertyPath: m_InitialEventNameOverriden
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8646728666458072738, guid: 05dbcb805bd80314882e8bd678ec467b, type: 3}
+      propertyPath: m_PropertySheet.m_Vector4f.m_Array.Array.size
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8646728666458072738, guid: 05dbcb805bd80314882e8bd678ec467b, type: 3}
+      propertyPath: m_PropertySheet.m_Vector4f.m_Array.Array.data[0].m_Name
+      value: Color_Ground_Ice_spikes
+      objectReference: {fileID: 0}
+    - target: {fileID: 8646728666458072738, guid: 05dbcb805bd80314882e8bd678ec467b, type: 3}
+      propertyPath: m_PropertySheet.m_Vector4f.m_Array.Array.data[0].m_Value.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8646728666458072738, guid: 05dbcb805bd80314882e8bd678ec467b, type: 3}
+      propertyPath: m_PropertySheet.m_Vector4f.m_Array.Array.data[0].m_Value.y
+      value: 1.2903233
+      objectReference: {fileID: 0}
+    - target: {fileID: 8646728666458072738, guid: 05dbcb805bd80314882e8bd678ec467b, type: 3}
+      propertyPath: m_PropertySheet.m_Vector4f.m_Array.Array.data[0].m_Value.z
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

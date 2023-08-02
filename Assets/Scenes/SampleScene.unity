@@ -2098,7 +2098,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 283780765717731007, guid: 4cf22633be217de4ab11cbe9a2d6b21c, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1844643102647802997, guid: 4cf22633be217de4ab11cbe9a2d6b21c, type: 3}
       propertyPath: m_WrapMode
@@ -2106,7 +2106,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2046216940966022961, guid: 4cf22633be217de4ab11cbe9a2d6b21c, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2626639451070322954, guid: 4cf22633be217de4ab11cbe9a2d6b21c, type: 3}
       propertyPath: m_Enabled
@@ -2118,6 +2118,30 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2626639451070322954, guid: 4cf22633be217de4ab11cbe9a2d6b21c, type: 3}
       propertyPath: m_InitialEventNameOverriden
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2626639451070322954, guid: 4cf22633be217de4ab11cbe9a2d6b21c, type: 3}
+      propertyPath: m_PropertySheet.m_Vector4f.m_Array.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2626639451070322954, guid: 4cf22633be217de4ab11cbe9a2d6b21c, type: 3}
+      propertyPath: m_PropertySheet.m_Vector4f.m_Array.Array.data[0].m_Name
+      value: Color_Ground_Ice_spikes
+      objectReference: {fileID: 0}
+    - target: {fileID: 2626639451070322954, guid: 4cf22633be217de4ab11cbe9a2d6b21c, type: 3}
+      propertyPath: m_PropertySheet.m_Vector4f.m_Array.Array.data[0].m_Value.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2626639451070322954, guid: 4cf22633be217de4ab11cbe9a2d6b21c, type: 3}
+      propertyPath: m_PropertySheet.m_Vector4f.m_Array.Array.data[0].m_Value.y
+      value: 1.2903233
+      objectReference: {fileID: 0}
+    - target: {fileID: 2626639451070322954, guid: 4cf22633be217de4ab11cbe9a2d6b21c, type: 3}
+      propertyPath: m_PropertySheet.m_Vector4f.m_Array.Array.data[0].m_Value.z
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 2626639451070322954, guid: 4cf22633be217de4ab11cbe9a2d6b21c, type: 3}
+      propertyPath: m_PropertySheet.m_Vector4f.m_Array.Array.data[0].m_Overridden
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5391158921880572490, guid: 4cf22633be217de4ab11cbe9a2d6b21c, type: 3}
@@ -2146,7 +2170,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6653682452000369819, guid: 4cf22633be217de4ab11cbe9a2d6b21c, type: 3}
       propertyPath: m_Enabled
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
