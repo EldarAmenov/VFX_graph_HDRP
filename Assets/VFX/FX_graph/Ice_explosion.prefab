@@ -48,9 +48,7 @@ PlayableDirector:
   m_WrapMode: 2
   m_DirectorUpdateMode: 1
   m_InitialTime: 0
-  m_SceneBindings:
-  - key: {fileID: -3034376745925923717, guid: f6d0083bdd160714ebad2fedfe381882, type: 2}
-    value: {fileID: 0}
+  m_SceneBindings: []
   m_ExposedReferences:
     m_References:
     - 246a5c4316fec7c449e7f4912baa3fce: {fileID: 2046216940966022961}
@@ -74,6 +72,14 @@ PrefabInstance:
     - target: {fileID: 7079571067440340651, guid: 72b8684306870e247bcdc4578b1e8611, type: 3}
       propertyPath: m_Enabled
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7310451774654276161, guid: 72b8684306870e247bcdc4578b1e8611, type: 3}
+      propertyPath: m_InitialEventName
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7310451774654276161, guid: 72b8684306870e247bcdc4578b1e8611, type: 3}
+      propertyPath: m_InitialEventNameOverriden
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7785771153033400902, guid: 72b8684306870e247bcdc4578b1e8611, type: 3}
       propertyPath: m_RootOrder
@@ -197,6 +203,14 @@ PrefabInstance:
     - target: {fileID: 8488675972335787488, guid: 05dbcb805bd80314882e8bd678ec467b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8646728666458072738, guid: 05dbcb805bd80314882e8bd678ec467b, type: 3}
+      propertyPath: m_InitialEventName
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 8646728666458072738, guid: 05dbcb805bd80314882e8bd678ec467b, type: 3}
+      propertyPath: m_InitialEventNameOverriden
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
